@@ -1,0 +1,6 @@
+x =int(input("enter the value of x"))
+y = int(input("enter the value of y"))
+z = int(input("enter the value of z"))
+print("the maximum of three value is")
+print(max(x,y,z))
+input("please press enter to exit the code")
