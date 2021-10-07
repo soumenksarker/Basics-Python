@@ -1,2 +1,2 @@
 # Basics-Python
-Simple Python list, loops, dictionary,  functions, module, class, docs, command line argument
+Simple Python list, loops, dictionary,  functions,class, module, docs, command line argument
